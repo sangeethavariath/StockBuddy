@@ -1,0 +1,37 @@
+{
+  "id": "a42b3a10-34b1-415f-b138-7b7794ecd119",
+  "name": "Suggestion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0cc42ab4-e8bf-4419-8d0a-7bb3c4ece766",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ABB , NOVARTIS  and AAPL are good picks for today"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529161688,
+  "fallbackIntent": false,
+  "events": []
+}

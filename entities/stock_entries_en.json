@@ -1,0 +1,26 @@
+[
+  {
+    "value": "ABB",
+    "synonyms": [
+      "ABB"
+    ]
+  },
+  {
+    "value": "NOVARTIS",
+    "synonyms": [
+      "NOVN"
+    ]
+  },
+  {
+    "value": "stock",
+    "synonyms": [
+      "stock"
+    ]
+  },
+  {
+    "value": "AAPL",
+    "synonyms": [
+      "AAPL"
+    ]
+  }
+]

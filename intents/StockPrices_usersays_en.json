@@ -1,0 +1,53 @@
+[
+  {
+    "id": "aa07e065-46a4-4423-aa91-6ff8ab7465b3",
+    "data": [
+      {
+        "text": "What is @",
+        "userDefined": false
+      },
+      {
+        "text": "stock",
+        "alias": "stock",
+        "meta": "@stock",
+        "userDefined": true
+      },
+      {
+        "text": " trading at",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529150997
+  },
+  {
+    "id": "f7c3ea53-93fe-46a7-8356-ebc46a34e059",
+    "data": [
+      {
+        "text": "What is the price of @stock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529150997
+  },
+  {
+    "id": "8cfc66d0-c928-42c4-94b0-b1f8415e52b9",
+    "data": [
+      {
+        "text": "What is the price of @",
+        "userDefined": false
+      },
+      {
+        "text": "stock",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529150997
+  }
+]

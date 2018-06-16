@@ -1,0 +1,43 @@
+{
+  "id": "64edd034-5a6f-43a0-8887-9f0f3a73bcfc",
+  "name": "BuyIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "37ff8e27-25c2-4612-b9ff-4d302e5a76f1",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many shares?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, Got it. Shall place order when market opens."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529155559,
+  "fallbackIntent": false,
+  "events": []
+}

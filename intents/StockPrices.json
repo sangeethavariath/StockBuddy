@@ -1,0 +1,43 @@
+{
+  "id": "f684bc45-f46f-42bf-aeb8-1d776c571743",
+  "name": "StockPrices",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c88994a2-bd30-452e-a784-0175cb43ca68",
+          "required": true,
+          "dataType": "@stock",
+          "name": "stock",
+          "value": "$stock",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which stock"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529150997,
+  "fallbackIntent": false,
+  "events": []
+}

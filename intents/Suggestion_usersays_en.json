@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e9ebe9f2-d02b-41a2-a267-c5f9d56e8c91",
+    "data": [
+      {
+        "text": "What is good pick for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  },
+  {
+    "id": "a87c2caa-e4ac-475a-910b-1bf3fcc0fed5",
+    "data": [
+      {
+        "text": "What do you suggest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  },
+  {
+    "id": "c86874de-0cd3-4d20-b911-e64d1d1f5573",
+    "data": [
+      {
+        "text": "What is your suggestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  },
+  {
+    "id": "3388b026-bcd4-4c86-88d5-f09c0affb6c4",
+    "data": [
+      {
+        "text": "Which stock should I buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  },
+  {
+    "id": "7f0f3a5f-8d3a-48e2-be66-4dfb5691786b",
+    "data": [
+      {
+        "text": "Where should I invest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  },
+  {
+    "id": "2ec0d174-989e-4bcf-87bd-e2c917126e1d",
+    "data": [
+      {
+        "text": "What should I buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529161688
+  }
+]

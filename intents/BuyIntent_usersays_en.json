@@ -1,0 +1,24 @@
+[
+  {
+    "id": "d74dac6f-225e-41ae-94b4-ea978cd86396",
+    "data": [
+      {
+        "text": "Please buy ",
+        "userDefined": false
+      },
+      {
+        "text": "50",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": " shares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528926355
+  }
+]
