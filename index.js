@@ -45,7 +45,7 @@ function callStockApi (stock, date) {
     // Create the path for the HTTP request to get the weather
    // let path = '/premium/v1/weather.ashx?format=json&num_of_days=1' +
    //   '&q=' + city + '&key=' + wwoApiKey + '&date=' + date;
-   
+	var prices = [];
     let path = '/query?function=TIME_SERIES_DAILY&symbol=' + stock + '&apikey=HO4OJ5V0WA5EUVE3';
     
     // let path = '/query?function=TIME_SERIES_DAILY&symbol=AMZN&apikey=HO4OJ5V0WA5EUVE3';

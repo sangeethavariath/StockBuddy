@@ -28,4 +28,4 @@ for (i = 0; i < lines.length; i++) {
     }
 }
 
-fs.writeFileSync('output.json', JSON.stringify(output), {encoding: 'UTF-8'});
+fs.writeFileSync('out.json', JSON.stringify(output), {encoding: 'UTF-8'});
